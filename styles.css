@@ -1,0 +1,56 @@
+header {
+    background-color: navy;
+}
+
+hr.main-break {
+    height: .4rem;
+	background-color: gold;
+	border: none;
+	margin: 20px 0px 0px;
+}
+
+hr {
+    height: .1rem;
+	background-color: gray;
+	border: none;
+	margin: 20px 0px 0px;
+}
+
+#page-title {
+    color: gold;
+    text-align: center;
+}
+
+#tagline {
+    color: white;
+    text-align: center;
+    background-color: navy;
+}
+
+p.paragraph {
+    text-align: justify;
+	margin: .5rem 0px
+}
+
+p {
+    color: gray;
+}
+
+h2 {
+    /* background-color: whitesmoke; */
+    color: gold;
+}
+
+img {
+    width: 750px;
+    margin: 10px 0px;
+}
+
+.intro-image {
+    width: 750px;
+    margin: 10px 0px;
+    display: block;
+    padding-top: 6px;
+    padding-right: 70px;
+    padding-left: 70 px;
+}
